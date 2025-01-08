@@ -8,5 +8,5 @@ Netflix <br>
 
 
 # Contact
-**LinkedIn:** http://www.linkedin.com/in/xiana-zhang
+**LinkedIn:** http://www.linkedin.com/in/xiana-zhang <br>
 **Email:** xz525@georgetown.edu
